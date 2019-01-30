@@ -55,7 +55,7 @@
 - Sutra, radionica / workshop, 9h ujutro!
 - Trajanje: 5 sati, sa pauzom za ručak
 
-![Radionica](2019-02-workshop-building-mostly-serverless-distributed-cloud-systems-step-by-step.png)
+![Radionica](2019-02-workshop-building-mostly-serverless-distributed-cloud-systems-step-by-step.jpg)
 
 ---
 
@@ -70,4 +70,4 @@
 
 ## Današnje predavanje
 
-![Meetup](2019-02-making-the-cloud-event-driven-and-orchestrated.png)
+![Meetup](2019-02-making-the-cloud-event-driven-and-orchestrated.jpg)
