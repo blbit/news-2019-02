@@ -46,7 +46,7 @@
 - Network 9, 27.03. - 29.03., Neum - https://www.networkkonferencija.ba/
 - WinDays 19, 03.04. - 05.04., Šibenik Hrvatska - https://www.windays.hr/
 - Weblica 2019, 11.05., Čakovec Hrvatska - https://weblica.hr/
-- NT konferenca 24, 12.03. - 23.03., Portorož Slovenija - https://www.ntk.si/
+- NT konferenca 24, 21.05. - 23.05., Portorož Slovenija - https://www.ntk.si/
 
 ---
 
